@@ -103,7 +103,7 @@ POST http://localhost:8080/api/auth/sign-in
 **Response:**
 ```json
 {
-    "token": "eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJjbGllbnRAZ21haWwuY29tIiwiaWF0IjoxNzE3NDUwNjk0LCJleHAiOjE3MTc0NTMyODYsInJvbGVzIjpbeyJhdXRob3JpdHkiOiJST0xFX0NMSUVOVCJ9XX0.vSyH4DpzZpqGvvX37AAa9Efl3dYi4rdHB-lnM2vWbLeZ5ybs7OJ3yRnZ0gWFJnvAc5WibRfiA03i6FtGMtR-pQ",
+    "token": "eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJjbGll...",
     "type": "Bearer",
     "id": 5,
     "email": "client@gmail.com",
